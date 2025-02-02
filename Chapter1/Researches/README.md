@@ -1,0 +1,2 @@
+Research 1: Time and Frequency Space
+Systems can be represented in the frequency domain instead of the time domain. This is done using the Laplace and Fourier operators. Examine the characteristics of representing systems in the frequency domain and what advantages it has over the time domain. Interpret the main difference between Fourier and Laplace representations using your engineering intuition.
